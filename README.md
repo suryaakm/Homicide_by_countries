@@ -1,5 +1,6 @@
 # Homicide_by_countries
-![Screenshot 2025-02-01 222714](https://github.com/user-attachments/assets/0be5087f-de7f-4626-9052-23e1b16a50b3)
+![Screenshot 2025-02-01 233331](https://github.com/user-attachments/assets/6e3699b7-64de-44b4-b29c-ada424027c7a)
+
 # Project overview
 In This Project Simply curious about the world of crime analytics,  complex data analysis accessible  data cleaning process
 using Numpy And then exploration, and visualization using the Pandas and seaborn

@@ -3,7 +3,7 @@
 
 # Project overview
 In This Project Simply curious about the world of crime analytics,  complex data analysis accessible  data cleaning process
-using Pandas And then exploration, and visualization using the Matplolib ,seaborn ,
+using Pandas And then exploration, and visualization using the Matplolib ,seaborn , matplotlib and plotly .
 the chart are bar charts and line chart.
 # project steps
 1) Tool Used: VScode(Jupyter notebook)
